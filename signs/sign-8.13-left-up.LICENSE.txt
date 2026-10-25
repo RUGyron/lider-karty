@@ -1,0 +1,10 @@
+SPDX-License-Identifier: CC0-1.0
+
+Original vector artwork: Lider Maps contributors, 2026.
+The original SVG paths and PNG rasterizations of sign-8.13-left-up are dedicated under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/
+
+This vector reconstructs only the observed face arrangement from the original video.
+It contains no photo pixels or copied third-party SVG paths. It makes no claim of
+normative dimensions, official certification, legal validity or manoeuvre permission.
+Observation photos/videos retain their own rights and are not included in this dedication.

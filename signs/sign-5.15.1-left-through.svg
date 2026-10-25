@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">5.15.1: two lanes, left only; straight only</title>
+  <desc id="desc">Original vector of the observed two-lane layout: the left lane turns left only; the right lane goes straight only. No combined arrow or U-turn is asserted. CC0-1.0.</desc>
+  <metadata>Author: Lider Maps contributors. License: CC0-1.0. Observation: VK video-41139314_456241301, original PTS1932, published2026-08-26, capture unknown. No photo pixels or third-party paths included.</metadata>
+  <rect width="160" height="160" rx="5" fill="#fff"/>
+  <rect x="4" y="4" width="152" height="152" rx="2" fill="#0D69E1"/>
+  <path id="lane-left-only" fill="#fff" d="M56 141V70Q56 52 38 52H30V65L10 44L30 23V36H39Q72 36 72 70V141Z"/>
+  <path id="lane-through-only" fill="#fff" d="M111 141V54H98L119 22L140 54H127V141Z"/>
+  <g id="two-lane-divider" fill="#fff"><rect x="83.5" y="82" width="3" height="11"/><rect x="83.5" y="102" width="3" height="11"/><rect x="83.5" y="122" width="3" height="11"/></g>
+</svg>

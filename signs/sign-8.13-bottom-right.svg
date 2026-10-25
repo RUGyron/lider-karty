@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">8.13: main road from bottom to right</title>
+  <desc id="desc">Original vector of the observed diagram. The thick main road enters from the bottom and curves right; thin minor approaches enter from the left and top. No manoeuvre permission is inferred. CC0-1.0.</desc>
+  <metadata>Author: Lider Maps contributors. License: CC0-1.0. Observation: VK video-41139314_456241301, original PTS1722, published2026-08-26, capture unknown. No photo pixels or third-party paths included.</metadata>
+  <rect width="160" height="160" rx="4" fill="#111111"/>
+  <rect x="3" y="3" width="154" height="154" rx="2" fill="#ffffff"/>
+  <g transform="rotate(180 80 80)">
+  <path id="minor-up" d="M80.25 82H83.75V145H80.25Z" fill="#111111"/>
+  <path id="minor-left" d="M82 80.25H145V83.75H82Z" fill="#111111"/>
+  <path id="main-bottom-right" d="M15 73H62Q73 73 73 62V15H91V62Q91 91 62 91H15Z" fill="#111111"/>
+</g>
+</svg>

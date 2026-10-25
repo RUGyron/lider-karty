@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="80" viewBox="0 0 160 80" role="img" aria-labelledby="title desc">
+  <title id="title">5.15.1: left lane left; right lane left or right</title>
+  <desc id="desc">Original vector reconstruction of the observed two-lane arrow layout. No straight arrow. No U-turn permission is asserted. CC0-1.0.</desc>
+  <metadata>Author: Lider Maps contributors. License: CC0-1.0. Observation references: VK video-41139314_456241301 at 1290 seconds; Yandex panorama 2024. Photo pixels and third-party vector paths are not included.</metadata>
+  <rect width="160" height="80" rx="4" fill="#fff"/>
+  <rect x="3" y="3" width="154" height="74" rx="2" fill="#0D69E1"/>
+  <path id="lane-left-only" fill="#fff" d="M50 69V39C50 35 48 33 43 33H34V41L15 29L34 17V25H43C53 25 58 30 58 39V69Z"/>
+  <path id="lane-left-or-right" fill="#fff" d="M114 69V41Q114 33 106 33H101V41L82 29L101 17V25H131V17L150 29L131 41V33H130Q122 33 122 41V69Z"/>
+  <g id="lane-divider" fill="#fff"><rect x="77.75" y="45" width="2.5" height="6"/><rect x="77.75" y="55" width="2.5" height="6"/><rect x="77.75" y="65" width="2.5" height="4"/></g>
+</svg>
