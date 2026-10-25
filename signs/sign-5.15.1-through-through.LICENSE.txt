@@ -1,0 +1,10 @@
+SPDX-License-Identifier: CC0-1.0
+
+Original vector artwork: Lider Maps contributors, 2026.
+The original SVG paths and PNG rasterizations of sign-5.15.1-through-through are dedicated under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/
+
+This artwork reconstructs only the observed two-lane arrow motif from the original video.
+It contains no source-photo pixels or copied third-party SVG paths and asserts no
+normative physical dimensions, official certification, installation validity or legal manoeuvre permission.
+Observation photos/videos retain their own rights and are not included in this dedication.

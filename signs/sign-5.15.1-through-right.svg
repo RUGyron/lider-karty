@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="112" viewBox="0 0 160 112" role="img" aria-labelledby="title desc">
+  <title id="title">5.15.1: Two lanes: straight only; right only</title>
+  <desc id="desc">Two independent lane arrow stems on one blue rectangular board, separated by a dashed vertical lane divider. Right lane direction: right_only. No shared-stem fork. CC0-1.0.</desc>
+  <metadata>Original vector: Lider Maps contributors, 2026. CC0-1.0. Observed source video-41139314_456241076, raw PTS195977220 (1/90000), playback2177.524667; capture date unknown. Source photos retain their own rights. No photo pixels or third-party SVG paths. Display proportions reconstruct the observed motif, not certified physical dimensions.</metadata>
+  <rect width="160" height="112" rx="4" fill="#fff"/>
+  <rect x="3" y="3" width="154" height="106" rx="2" fill="#0D69E1"/>
+  <path id="lane-left-through-only" data-lane-direction="through" fill="#fff" d="M36 98V39H25L42 13L59 39H48V98Z"/>
+  <path id="lane-right-right-only" data-lane-direction="right_only" fill="#fff" d="M105 98V51Q105 29 126 29H132V18L151 35L132 52V41H126Q117 41 117 51V98Z"/>
+  <g id="two-lane-divider" fill="#fff"><rect x="79" y="57" width="2" height="9"/><rect x="79" y="74" width="2" height="9"/><rect x="79" y="91" width="2" height="9"/></g>
+</svg>

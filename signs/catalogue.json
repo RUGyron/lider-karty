@@ -3078,6 +3078,90 @@
       "png": "sign-5.15.1.png"
     },
     {
+      "id": "sign-5.15.1-through-right",
+      "code": "5.15.1",
+      "variant": "through-right",
+      "sourceType": "own-vector",
+      "sourcePage": "/signs/sign-5.15.1-through-right.svg",
+      "sourceUrl": "/signs/sign-5.15.1-through-right.svg",
+      "sourceAuthor": "Lider Maps contributors",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseFile": "sign-5.15.1-through-right.LICENSE.txt",
+      "modifications": "Original vector reconstruction: Two lanes: straight only; right only. Two independent stems and dashed lane divider; no shared-stem fork, photo pixels or third-party SVG paths. No certified physical dimensions or legal-permission inference.",
+      "svg": "sign-5.15.1-through-right.svg",
+      "png": "sign-5.15.1-through-right.png",
+      "svgSha256": "f76126d36b52dbfcae334dec56b0f270799b12c172ca6e46a861cdcf7161501e",
+      "pngSha256": "6af258b243de8217d3303b70c4fe6370ba68a66e78af9103372a39969417d054",
+      "pngWidth": 160,
+      "pngHeight": 112,
+      "observedLaneDirections": [
+        [
+          "through"
+        ],
+        [
+          "right"
+        ]
+      ],
+      "observationReferences": [
+        {
+          "url": "https://vk.com/video-41139314_456241076",
+          "absoluteSourcePTSSeconds": 2177.524667,
+          "rawOriginalPTS": 195977220,
+          "timeBase": "1/90000",
+          "captureDate": null,
+          "sourceCropSHA256": "48c4dc725220870a424dc249ffde951f3941e678a28dbb3d2e4deb9653600bdc"
+        }
+      ],
+      "classificationReference": {
+        "url": "https://www.mos.ru/upload/documents/files/6980/GOSTR52289-2019TehnicheskiesredstvaorganizaciidorojnogodvijeniyaP_.pdf",
+        "section": "5.6.22",
+        "purpose": "Code classification only; not validation of current installation legality"
+      }
+    },
+    {
+      "id": "sign-5.15.1-through-through",
+      "code": "5.15.1",
+      "variant": "through-through",
+      "sourceType": "own-vector",
+      "sourcePage": "/signs/sign-5.15.1-through-through.svg",
+      "sourceUrl": "/signs/sign-5.15.1-through-through.svg",
+      "sourceAuthor": "Lider Maps contributors",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseFile": "sign-5.15.1-through-through.LICENSE.txt",
+      "modifications": "Original vector reconstruction: Two lanes: straight only; straight only. Two independent stems and dashed lane divider; no shared-stem fork, photo pixels or third-party SVG paths. No certified physical dimensions or legal-permission inference.",
+      "svg": "sign-5.15.1-through-through.svg",
+      "png": "sign-5.15.1-through-through.png",
+      "svgSha256": "5a9723fd31ff4f78ceabd6adc7f792bab5757026d99a21e50f887f4c72a66741",
+      "pngSha256": "90a1fbe0270c0ddd34e77e3ea0e8c0eeeee03b5728520f0673f46ee32b8f9a6a",
+      "pngWidth": 160,
+      "pngHeight": 112,
+      "observedLaneDirections": [
+        [
+          "through"
+        ],
+        [
+          "through"
+        ]
+      ],
+      "observationReferences": [
+        {
+          "url": "https://vk.com/video-41139314_456241076",
+          "absoluteSourcePTSSeconds": 2177.524667,
+          "rawOriginalPTS": 195977220,
+          "timeBase": "1/90000",
+          "captureDate": null,
+          "sourceCropSHA256": "395ac57ee0f126d6f2c8ad57b5ab2e12f8418955e28085cede0c9e87416659c3"
+        }
+      ],
+      "classificationReference": {
+        "url": "https://www.mos.ru/upload/documents/files/6980/GOSTR52289-2019TehnicheskiesredstvaorganizaciidorojnogodvijeniyaP_.pdf",
+        "section": "5.6.22",
+        "purpose": "Code classification only; not validation of current installation legality"
+      }
+    },
+    {
       "id": "sign-5.15.1-bear-left-right",
       "code": "5.15.1",
       "variant": "bear-left-right",
