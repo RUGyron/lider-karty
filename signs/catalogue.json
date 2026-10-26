@@ -5778,6 +5778,105 @@
       "png": "sign-8.2.1.png"
     },
     {
+      "id": "sign-8.2.1-40m",
+      "code": "8.2.1",
+      "variant": "40m",
+      "sourceType": "own-vector",
+      "sourcePage": "/signs/sign-8.2.1-40m.svg",
+      "sourceUrl": "/signs/sign-8.2.1-40m.svg",
+      "sourceAuthor": "Lider Maps contributors",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseFile": "sign-8.2.1-40m.LICENSE.txt",
+      "modifications": "Own vector reconstruction: 40 m and two upward arrows observed below3.24. No photo pixels or inferred road-zone geometry.",
+      "svg": "sign-8.2.1-40m.svg",
+      "png": "sign-8.2.1-40m.png",
+      "svgSha256": "f81a87e06859f7a30810650cc0ac19988f53fd2784b266ec59046e881f981d1f",
+      "pngSha256": "48c0f5c564ec4790fbd3690790b0eece731a83ddaca7f980d302a5b6d70508a7",
+      "pngWidth": 160,
+      "pngHeight": 160,
+      "observationReferences": [
+        {
+          "url": "https://vk.com/video-41139314_456241301",
+          "absoluteSourcePTSSeconds": 821.5,
+          "captureDate": null,
+          "sourceCropPath": "/Users/rugyron/Movies/LiderMaps/annotations/route1-dense-batch6/crops/t821.5-speed.png",
+          "sourceCropSHA256": "bd7709811d65cdc283ef4470942f1dbb8cf2156401724e4b894c975bf3ba2593"
+        }
+      ],
+      "observedDistanceMeters": 40,
+      "observedArrowDirections": [
+        "up",
+        "up"
+      ]
+    },
+    {
+      "id": "sign-8.2.1-30m",
+      "code": "8.2.1",
+      "variant": "30m",
+      "sourceType": "own-vector",
+      "sourcePage": "/signs/sign-8.2.1-30m.svg",
+      "sourceUrl": "/signs/sign-8.2.1-30m.svg",
+      "sourceAuthor": "Lider Maps contributors",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseFile": "sign-8.2.1-30m.LICENSE.txt",
+      "modifications": "Own vector reconstruction: 30 m and two upward arrows observed below3.24. No photo pixels or inferred road-zone geometry.",
+      "svg": "sign-8.2.1-30m.svg",
+      "png": "sign-8.2.1-30m.png",
+      "svgSha256": "15c6bf30a12bdf134b3e152d87acf9cd39534a6b7638242752e7b57a6f38c7ad",
+      "pngSha256": "c87a573c5707743cfa3fdf2e3a54552542c14de952468ad6a479f273eda5b393",
+      "pngWidth": 160,
+      "pngHeight": 160,
+      "observationReferences": [
+        {
+          "url": "https://vk.com/video-41139314_456241301",
+          "absoluteSourcePTSSeconds": 1771.5,
+          "captureDate": null,
+          "sourceCropPath": "/Users/rugyron/Movies/LiderMaps/annotations/route1-dense-batch6/crops/t1771.5-520-32420-30m.png",
+          "sourceCropSHA256": "a6f5868467eac861aa40ea022c03bcb33e024f802891292eaafd202983d28170"
+        }
+      ],
+      "observedDistanceMeters": 30,
+      "observedArrowDirections": [
+        "up",
+        "up"
+      ]
+    },
+    {
+      "id": "sign-8.2.1-10m",
+      "code": "8.2.1",
+      "variant": "10m",
+      "sourceType": "own-vector",
+      "sourcePage": "/signs/sign-8.2.1-10m.svg",
+      "sourceUrl": "/signs/sign-8.2.1-10m.svg",
+      "sourceAuthor": "Lider Maps contributors",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseFile": "sign-8.2.1-10m.LICENSE.txt",
+      "modifications": "Own vector reconstruction: 10 m and two upward arrows observed below3.24. No photo pixels or inferred road-zone geometry.",
+      "svg": "sign-8.2.1-10m.svg",
+      "png": "sign-8.2.1-10m.png",
+      "svgSha256": "c870652126e639e57189edd8bc04d859ee5d0c5f969a8216f5851ba1266f57d1",
+      "pngSha256": "3c03ee7611290cf8810da0ce5123ee9dc65b1ae68a4bf30515a6a236b9efd27a",
+      "pngWidth": 160,
+      "pngHeight": 160,
+      "observationReferences": [
+        {
+          "url": "https://vk.com/video-41139314_456241180",
+          "absoluteSourcePTSSeconds": 181.0333222222222,
+          "captureDate": null,
+          "sourceCropPath": "/Users/rugyron/Movies/LiderMaps/annotations/route2-dense-signs-batch4/180-181p033322-hump20-plate-full.png",
+          "sourceCropSHA256": "7e295da3aa52060acee6b95af9eb983ec5238c8fd05210efcf31a810f5ac4990"
+        }
+      ],
+      "observedDistanceMeters": 10,
+      "observedArrowDirections": [
+        "up",
+        "up"
+      ]
+    },
+    {
       "id": "sign-8.2.1-200m",
       "code": "8.2.1",
       "variant": "200m",
