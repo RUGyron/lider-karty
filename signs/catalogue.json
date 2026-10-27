@@ -3184,7 +3184,6 @@
           "url": "https://vk.com/video-41139314_456241301",
           "absoluteSourcePTSSeconds": 1530,
           "captureDate": null,
-          "sourceCropPath": "/Users/rugyron/Movies/LiderMaps/annotations/route1-a/crops/t01530-lane-directions.png",
           "sourceCropSHA256": "8ec0eb4c5bbb965c6097cdbd39ba2a57cfee78b54bb2a1cf4816d992a80abe4b"
         }
       ],
@@ -5800,7 +5799,6 @@
           "url": "https://vk.com/video-41139314_456241301",
           "absoluteSourcePTSSeconds": 821.5,
           "captureDate": null,
-          "sourceCropPath": "/Users/rugyron/Movies/LiderMaps/annotations/route1-dense-batch6/crops/t821.5-speed.png",
           "sourceCropSHA256": "bd7709811d65cdc283ef4470942f1dbb8cf2156401724e4b894c975bf3ba2593"
         }
       ],
@@ -5833,7 +5831,6 @@
           "url": "https://vk.com/video-41139314_456241301",
           "absoluteSourcePTSSeconds": 1771.5,
           "captureDate": null,
-          "sourceCropPath": "/Users/rugyron/Movies/LiderMaps/annotations/route1-dense-batch6/crops/t1771.5-520-32420-30m.png",
           "sourceCropSHA256": "a6f5868467eac861aa40ea022c03bcb33e024f802891292eaafd202983d28170"
         }
       ],
@@ -5866,7 +5863,6 @@
           "url": "https://vk.com/video-41139314_456241180",
           "absoluteSourcePTSSeconds": 181.0333222222222,
           "captureDate": null,
-          "sourceCropPath": "/Users/rugyron/Movies/LiderMaps/annotations/route2-dense-signs-batch4/180-181p033322-hump20-plate-full.png",
           "sourceCropSHA256": "7e295da3aa52060acee6b95af9eb983ec5238c8fd05210efcf31a810f5ac4990"
         }
       ],
@@ -5899,7 +5895,6 @@
           "url": "https://vk.com/video-41139314_456241351",
           "absoluteSourcePTSSeconds": 2490,
           "captureDate": null,
-          "sourceCropPath": "/Users/rugyron/Movies/LiderMaps/annotations/route2-b/crops/t02490-bus-children-plate.png",
           "sourceCropSHA256": "6a1abab178549fd09a2a12a8e078da97ab67e95de1ab953ae21366c3483e941c"
         }
       ],
@@ -5932,7 +5927,6 @@
           "url": "https://vk.com/video-41139314_456241351",
           "absoluteSourcePTSSeconds": 541.6,
           "captureDate": null,
-          "sourceCropPath": "/Users/rugyron/Movies/LiderMaps/annotations/route2-a/crops/t00541p600-same-frame-sign.png",
           "sourceCropSHA256": "bd76295a4142e00d2951a8a2b3f14ff8ca6c332d8706e5306d84f7c17c980278"
         }
       ],
@@ -5958,6 +5952,78 @@
       "png": "sign-8.2.2.png"
     },
     {
+      "id": "sign-8.2.2-70m",
+      "code": "8.2.2",
+      "variant": "70m",
+      "sourceType": "own-vector",
+      "sourcePage": "/signs/sign-8.2.2-70m.svg",
+      "sourceUrl": "/signs/sign-8.2.2-70m.svg",
+      "sourceAuthor": "Lider Maps contributors",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseFile": "sign-8.2.2-70m.LICENSE.txt",
+      "modifications": "Own vector reconstruction: Area of operation70m, upward arrow. No photo pixels; no claim of normative dimensions or legal manoeuvre permission.",
+      "svg": "sign-8.2.2-70m.svg",
+      "png": "sign-8.2.2-70m.png",
+      "svgSha256": "c25814754d38bff3a6782ae06b7802a76bdf37202f166dec2e0a7b751b93a648",
+      "pngSha256": "99c7fdd830903f839ada430317bef5afda2d5bb575545c3e25d49e3de733d95b",
+      "pngWidth": 160,
+      "pngHeight": 160,
+      "observationReferences": [
+        {
+          "url": "https://vk.com/video-41139314_456241301",
+          "absoluteSourcePTSSeconds": 734.5,
+          "rawOriginalPTS": 66105000,
+          "timeBase": "1/90000",
+          "captureDate": null,
+          "sourceCropSHA256": "783b9141f8b28495200975f6fee00f136d963e421a778587b939836c14260552"
+        }
+      ],
+      "observedDistanceMeters": 70,
+      "observedArrowDirections": [
+        "up"
+      ]
+    },
+    {
+      "id": "sign-8.2.2-20m",
+      "code": "8.2.2",
+      "variant": "20m",
+      "sourceType": "own-vector",
+      "sourcePage": "/signs/sign-8.2.2-20m.svg",
+      "sourceUrl": "/signs/sign-8.2.2-20m.svg",
+      "sourceAuthor": "Lider Maps contributors",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseFile": "sign-8.2.2-20m.LICENSE.txt",
+      "modifications": "Own vector reconstruction: Area of operation20m, upward arrow. No photo pixels; no claim of normative dimensions or legal manoeuvre permission.",
+      "svg": "sign-8.2.2-20m.svg",
+      "png": "sign-8.2.2-20m.png",
+      "svgSha256": "ade4dee17b372ce95bcc6a57f74d9050e759200c1fa8e9f4a21c27cb4a5808a7",
+      "pngSha256": "cd68543e2deecdb16c69117afe1d0aca8f801442484a7178214e3525df033c4c",
+      "pngWidth": 160,
+      "pngHeight": 160,
+      "observationReferences": [
+        {
+          "url": "https://vk.com/video-41139314_456241301",
+          "rawOriginalPTS": 34830000,
+          "timeBase": "1/90000",
+          "absoluteSourcePTSSeconds": 387,
+          "captureDate": null,
+          "sourceCropSHA256": "e1398bb03e04574350ba11ddbcd29667fd730b02ef2c57d1214faa4d2c62b64f"
+        },
+        {
+          "url": "https://vk.com/video-41139314_456241076",
+          "absoluteSourcePTSSeconds": 381.5246666666667,
+          "captureDate": null,
+          "sourceCropSHA256": "504a77137bb91057f0b8af88cc2529e6dbf7626e4b5f833024056c395b5da3c0"
+        }
+      ],
+      "observedDistanceMeters": 20,
+      "observedArrowDirections": [
+        "up"
+      ]
+    },
+    {
       "id": "sign-8.2.2-25m",
       "code": "8.2.2",
       "variant": "25m",
@@ -5980,7 +6046,6 @@
           "url": "https://vk.com/video-41139314_456241351",
           "absoluteSourcePTSSeconds": null,
           "captureDate": null,
-          "sourceCropPath": "/Users/rugyron/Movies/LiderMaps/annotations/route2-a/crops/original-327.png",
           "sourceCropSHA256": "55b1f7402a2426a6b2355ec4f457568b968a573b278b3c969c7ce7d6f18e0dfe"
         }
       ],
@@ -6012,7 +6077,6 @@
           "url": "https://vk.com/video-41139314_456241301",
           "absoluteSourcePTSSeconds": 2028,
           "captureDate": null,
-          "sourceCropPath": "/Users/rugyron/Movies/LiderMaps/annotations/route1-main-batch3-late/frames/original-2028.png",
           "sourceCropSHA256": "f9d799323a346e60740cefd3e559cb90635c89aa6192d125dcaf7732b188fa93"
         }
       ],
@@ -6509,7 +6573,6 @@
           "url": "https://vk.com/video-41139314_456241301",
           "absoluteSourcePTSSeconds": 2153,
           "captureDate": null,
-          "sourceCropPath": "/Users/rugyron/Movies/LiderMaps/annotations/route1-main-batch3-late/crops/2153-truck-hours.png",
           "sourceCropSHA256": "2f13a946a781561f90dc0f1f7ffe564d31bf1b4d1e82c5d9a5180bfe0ad3590a"
         }
       ],
@@ -6541,7 +6604,6 @@
           "url": "https://vk.com/video-41139314_456241351",
           "absoluteSourcePTSSeconds": null,
           "captureDate": null,
-          "sourceCropPath": "/Users/rugyron/Movies/LiderMaps/annotations/route2-a/crops/original-327.png",
           "sourceCropSHA256": "55b1f7402a2426a6b2355ec4f457568b968a573b278b3c969c7ce7d6f18e0dfe"
         }
       ],
@@ -6573,7 +6635,6 @@
           "url": "https://vk.com/video-41139314_456241301",
           "absoluteSourcePTSSeconds": 2028,
           "captureDate": null,
-          "sourceCropPath": "/Users/rugyron/Movies/LiderMaps/annotations/route1-main-batch3-late/frames/original-2028.png",
           "sourceCropSHA256": "f9d799323a346e60740cefd3e559cb90635c89aa6192d125dcaf7732b188fa93"
         }
       ],
@@ -6911,6 +6972,213 @@
       "pngWidth": 160,
       "pngHeight": 160,
       "png": "sign-8.13.png"
+    },
+    {
+      "id": "sign-8.13-roundabout-top-left-right",
+      "code": "8.13",
+      "variant": "roundabout-top-left-right",
+      "sourceType": "own-vector",
+      "sourcePage": "/signs/sign-8.13-roundabout-top-left-right.svg",
+      "sourceUrl": "/signs/sign-8.13-roundabout-top-left-right.svg",
+      "sourceAuthor": "Lider Maps contributors",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseFile": "sign-8.13-roundabout-top-left-right.LICENSE.txt",
+      "modifications": "Closed main circle; minor top, left and right; no bottom arm. Original vector reconstruction; no photo pixels, normative dimensions or legal permission claim.",
+      "svg": "sign-8.13-roundabout-top-left-right.svg",
+      "png": "sign-8.13-roundabout-top-left-right.png",
+      "pngWidth": 160,
+      "pngHeight": 160,
+      "observedPriorityDiagram": {
+        "thick": [
+          "closed-circle"
+        ],
+        "thin": [
+          "top",
+          "left",
+          "right"
+        ],
+        "absent": [
+          "bottom"
+        ]
+      },
+      "observationReferences": [
+        {
+          "url": "https://vk.com/video-41139314_456241351",
+          "absoluteSourcePTSSeconds": 979.5,
+          "rawOriginalPTS": 88155000,
+          "timeBase": "1/90000",
+          "captureDate": null,
+          "sourceCropSHA256": "7922f92e86fd62f7c6c61f340680f36f18310a2f9caf0c74bbad9441d433ec01"
+        }
+      ],
+      "svgSha256": "473b315cef403ed581c0f2860dec53b60deca2474210f41f1b743388875695a3",
+      "pngSha256": "e859a1670d0c16ca9fdbe53b0b9fc73f371a4878e201a414534e4342375ddb49"
+    },
+    {
+      "id": "sign-8.13-t-top-left-bottom-minor",
+      "code": "8.13",
+      "variant": "t-top-left-bottom-minor",
+      "sourceType": "own-vector",
+      "sourcePage": "/signs/sign-8.13-t-top-left-bottom-minor.svg",
+      "sourceUrl": "/signs/sign-8.13-t-top-left-bottom-minor.svg",
+      "sourceAuthor": "Lider Maps contributors",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseFile": "sign-8.13-t-top-left-bottom-minor.LICENSE.txt",
+      "modifications": "Main top to left; minor bottom; no right arm. Original vector reconstruction; no photo pixels, normative dimensions or legal permission claim.",
+      "svg": "sign-8.13-t-top-left-bottom-minor.svg",
+      "png": "sign-8.13-t-top-left-bottom-minor.png",
+      "pngWidth": 160,
+      "pngHeight": 160,
+      "observedPriorityDiagram": {
+        "thick": [
+          "top",
+          "left"
+        ],
+        "thin": [
+          "bottom"
+        ],
+        "absent": [
+          "right"
+        ]
+      },
+      "observationReferences": [
+        {
+          "url": "https://vk.com/video-41139314_456241301",
+          "absoluteSourcePTSSeconds": 1932,
+          "rawOriginalPTS": 173880000,
+          "timeBase": "1/90000",
+          "captureDate": null,
+          "sourceCropSHA256": "665bbdb6bfaeb547d3fd7cf93bcd7d52f62ce2c375571e304c70bb1970a952d5"
+        }
+      ],
+      "svgSha256": "fe326498764c8745ecca7532aca085fd7b0476f6c69fb6128c01d3a6bd9a2086",
+      "pngSha256": "36ec766e61bd0bc2e91448815ab4f1fecf1ac3c6b3af8871c933b4c14ec30a2d"
+    },
+    {
+      "id": "sign-8.13-t-bottom-left-up-minor",
+      "code": "8.13",
+      "variant": "t-bottom-left-up-minor",
+      "sourceType": "own-vector",
+      "sourcePage": "/signs/sign-8.13-t-bottom-left-up-minor.svg",
+      "sourceUrl": "/signs/sign-8.13-t-bottom-left-up-minor.svg",
+      "sourceAuthor": "Lider Maps contributors",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseFile": "sign-8.13-t-bottom-left-up-minor.LICENSE.txt",
+      "modifications": "Main bottom to left; minor top; no right arm. Original vector reconstruction; no photo pixels, normative dimensions or legal permission claim.",
+      "svg": "sign-8.13-t-bottom-left-up-minor.svg",
+      "png": "sign-8.13-t-bottom-left-up-minor.png",
+      "pngWidth": 160,
+      "pngHeight": 160,
+      "observedPriorityDiagram": {
+        "thick": [
+          "bottom",
+          "left"
+        ],
+        "thin": [
+          "top"
+        ],
+        "absent": [
+          "right"
+        ]
+      },
+      "observationReferences": [
+        {
+          "url": "https://vk.com/video-41139314_456241301",
+          "absoluteSourcePTSSeconds": 921,
+          "rawOriginalPTS": 82890000,
+          "timeBase": "1/90000",
+          "captureDate": null,
+          "sourceCropSHA256": "42def84db871f500dadd0a206ce3ad96f9b2b0701bf8b94d4eee8957f073bfdb"
+        }
+      ],
+      "svgSha256": "0b1cc829d66ec6057ecc3b1539491a5caeb8d7973a3aacff2224a8e3c861a464",
+      "pngSha256": "d3b948f9802a566d52ed57b2bdeb32de27186a5c8713ac8f61a106caf494aa33"
+    },
+    {
+      "id": "sign-8.13-roundabout-three-arms",
+      "code": "8.13",
+      "variant": "roundabout-three-arms",
+      "sourceType": "own-vector",
+      "sourcePage": "/signs/sign-8.13-roundabout-three-arms.svg",
+      "sourceUrl": "/signs/sign-8.13-roundabout-three-arms.svg",
+      "sourceAuthor": "Lider Maps contributors",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseFile": "sign-8.13-roundabout-three-arms.LICENSE.txt",
+      "modifications": "Main road is a closed roundabout circle; three minor approaches left, right, bottom; no top arm. Original vector reconstruction; no photo pixels or claim of normative dimensions or legal manoeuvre permission.",
+      "svg": "sign-8.13-roundabout-three-arms.svg",
+      "png": "sign-8.13-roundabout-three-arms.png",
+      "pngWidth": 160,
+      "pngHeight": 160,
+      "observedPriorityDiagram": {
+        "thick": [
+          "closed_roundabout_circle"
+        ],
+        "thin": [
+          "left",
+          "right",
+          "bottom"
+        ],
+        "absent": [
+          "top"
+        ]
+      },
+      "observationReferences": [
+        {
+          "url": "https://vk.com/video-41139314_456241351",
+          "absoluteSourcePTSSeconds": 745.5,
+          "rawOriginalPTS": 67095000,
+          "timeBase": "1/90000",
+          "captureDate": null,
+          "sourceCropSHA256": "2c1604d3fe985d2f53cd23fb8da31b7cbd251b4f486b67bf9bbe43995fde257d"
+        }
+      ],
+      "svgSha256": "fb2a377ac14ce5210b314a1771c6a1e8e20e2180456d39614f304c85ba7fa88b",
+      "pngSha256": "d7a251cde6a62e3574460e327f6e1845cd0525330c48293b3d5341860f9c647b"
+    },
+    {
+      "id": "sign-8.13-t-bottom-left",
+      "code": "8.13",
+      "variant": "t-bottom-left",
+      "sourceType": "own-vector",
+      "sourcePage": "/signs/sign-8.13-t-bottom-left.svg",
+      "sourceUrl": "/signs/sign-8.13-t-bottom-left.svg",
+      "sourceAuthor": "Lider Maps contributors",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseFile": "sign-8.13-t-bottom-left.LICENSE.txt",
+      "modifications": "Main road from bottom to left at a three-arm T junction; right minor road, no top arm. Original vector reconstruction; no photo pixels or claim of normative dimensions or legal manoeuvre permission.",
+      "svg": "sign-8.13-t-bottom-left.svg",
+      "png": "sign-8.13-t-bottom-left.png",
+      "pngWidth": 160,
+      "pngHeight": 160,
+      "observedPriorityDiagram": {
+        "thick": [
+          "bottom",
+          "left"
+        ],
+        "thin": [
+          "right"
+        ],
+        "absent": [
+          "top"
+        ]
+      },
+      "observationReferences": [
+        {
+          "url": "https://vk.com/video-41139314_456241351",
+          "absoluteSourcePTSSeconds": 644,
+          "rawOriginalPTS": 57960000,
+          "timeBase": "1/90000",
+          "captureDate": null,
+          "sourceCropSHA256": "14d54e4b53fadc7e1024dd2598da460bf4d04d68f01add66581662529290a564"
+        }
+      ],
+      "svgSha256": "bf4c5f85e597c8c48922f1ca0d12c6e80d4230e817ffafea5a320658bfe5cfd1",
+      "pngSha256": "6d501eeb4ef099aa697026cdf8387ea6fe3433f18882b00975fd3eae768d2478"
     },
     {
       "id": "sign-8.13-bottom-right",
