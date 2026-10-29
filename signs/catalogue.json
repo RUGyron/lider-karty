@@ -1818,6 +1818,68 @@
       "png": "sign-3.24-60.png"
     },
     {
+      "id": "sign-3.24-40-yellow",
+      "code": "3.24",
+      "variant": "40-yellow",
+      "sourceType": "own-vector",
+      "sourcePage": "/signs/sign-3.24-40-yellow.svg",
+      "sourceUrl": "/signs/sign-3.24-40-yellow.svg",
+      "sourceAuthor": "Lider Maps contributors",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseFile": "sign-3.24-40-yellow.LICENSE.txt",
+      "modifications": "Original geometric reconstruction of observed yellow-background 40 speed sign. No photo pixels, no claim of current legal validity or normative dimensions.",
+      "svg": "sign-3.24-40-yellow.svg",
+      "png": "sign-3.24-40-yellow.png",
+      "svgSha256": "486ccd835a87d0102df44574bdddf1c0cb76904aa880edb91349e561ac4f3a73",
+      "pngSha256": "7674d46f4e4a2ebd1ce2a88219367ae7d1b7226de57cbcf44aa7b1b037f929dd",
+      "pngWidth": 160,
+      "pngHeight": 160,
+      "observedSpeedKmh": 40,
+      "observedBackground": "yellow",
+      "observationReferences": [
+        {
+          "url": "https://vk.com/video-41139314_456241301",
+          "absoluteSourcePTSSeconds": 1195.5,
+          "rawOriginalPTS": 107595000,
+          "timeBase": "1/90000",
+          "captureDate": null,
+          "sourceCropSHA256": "19debd03d93950135fdb4e0097c2f70ee81cd83f8538b737f3362f408e7238b5"
+        }
+      ]
+    },
+    {
+      "id": "sign-3.24-20-yellow",
+      "code": "3.24",
+      "variant": "20-yellow",
+      "sourceType": "own-vector",
+      "sourcePage": "/signs/sign-3.24-20-yellow.svg",
+      "sourceUrl": "/signs/sign-3.24-20-yellow.svg",
+      "sourceAuthor": "Lider Maps contributors",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licenseFile": "sign-3.24-20-yellow.LICENSE.txt",
+      "modifications": "Original geometric reconstruction of observed yellow-background 20 speed sign. No photo pixels, no claim of current legal validity or normative dimensions.",
+      "svg": "sign-3.24-20-yellow.svg",
+      "png": "sign-3.24-20-yellow.png",
+      "svgSha256": "907e8f965b3bd61f0facf9ba16fe5a9145c9828078f95f3cf24991fcbbfa829d",
+      "pngSha256": "67b10c9db651a2463a071b5d92f0a018e623d45fd9b67e127f89ddcd2591d00a",
+      "pngWidth": 160,
+      "pngHeight": 160,
+      "observedSpeedKmh": 20,
+      "observedBackground": "yellow",
+      "observationReferences": [
+        {
+          "url": "https://vk.com/video-41139314_456241301",
+          "absoluteSourcePTSSeconds": 827.5,
+          "rawOriginalPTS": 74475000,
+          "timeBase": "1/90000",
+          "captureDate": null,
+          "sourceCropSHA256": "d4b527a5e17141df495fd241bb4f142c7fa4f2b95a0a86f1d66cf2ff5501c50c"
+        }
+      ]
+    },
+    {
       "id": "sign-3.24-70",
       "code": "3.24",
       "variant": "70",
